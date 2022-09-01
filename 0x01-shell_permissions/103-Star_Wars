@@ -1,2 +1,2 @@
 #!/bin/bash
-telnettower.blinkenlight.nl
+ssh tower.blinkenlight.nl
