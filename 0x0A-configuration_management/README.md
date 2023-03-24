@@ -6,7 +6,9 @@ $ apt-get install -y ruby-augeas
 $ apt-get install -y ruby-shadow
 $ apt-get install -y puppet
 ```
+
 [Puppet 5 Docs](https://www.puppet.com/docs/puppet/5.5/puppet_index.html)
+
 ## install `puppet-link`
 
 ```
