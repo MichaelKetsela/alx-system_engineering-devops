@@ -5,7 +5,7 @@ file_line{'turn off password':
     line   => 'PasswordAuthentication no',
 }
 
-file_line{ 'Declare idebtity file'
+file_line{ 'Declare idebtity file':
     ensure => 'present',
     path   => '/bin/',
     line   => 'IdentityFile ~/.ssh/school',
