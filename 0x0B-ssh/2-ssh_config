@@ -1,6 +1,0 @@
-#!/usr/bin/env bash
-#Client configuration file
-Host 54.87.237.75
-User ubuntu
-IdentityFile ~/.ssh/school
-PasswordAuthentication no
